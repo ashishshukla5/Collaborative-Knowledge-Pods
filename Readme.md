@@ -7,6 +7,8 @@ The platform allows creators to establish knowledge pods with unique titles and 
 
 ## Contract Address
 0xe12B5A0B77106Cd7C25A0Cc36A31f545B5D2294c
+![image](https://github.com/user-attachments/assets/133d9e31-1109-4a7e-8914-b2e58d8fcec0)
+
 
 ## Project Vision
 Our vision is to democratize access to knowledge creation and sharing by leveraging blockchain technology. We aim to:
